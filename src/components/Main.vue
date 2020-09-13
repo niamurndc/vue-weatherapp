@@ -23,7 +23,7 @@ export default {
   name: 'Main',
   data(){
     return{
-      app_key: 'a783959171432df2b90b278e51620848',
+      app_key: 'a78395917143.........',
       app_url: 'https://api.openweathermap.org/data/2.5/',
       city: '',
       weather: {}
